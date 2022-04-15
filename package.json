@@ -1,0 +1,26 @@
+{
+  "name": "structured",
+  "version": "1.0.0",
+  "description": "This is a prectice app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemo index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Negasi-Kemer/ExpressThreeSubApp.git"
+  },
+  "author": "Negasi-Kemer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Negasi-Kemer/ExpressThreeSubApp/issues"
+  },
+  "homepage": "https://github.com/Negasi-Kemer/ExpressThreeSubApp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
